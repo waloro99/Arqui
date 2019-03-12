@@ -1,0 +1,7 @@
+C:\Users\walte\OneDrive\Documentos\papucho\2019\5to Ciclo\Arquitectura de Datos 1\Laboratorio\Lector de letras\Lector de letras\bin\Debug\Lector de letras.exe.config
+C:\Users\walte\OneDrive\Documentos\papucho\2019\5to Ciclo\Arquitectura de Datos 1\Laboratorio\Lector de letras\Lector de letras\bin\Debug\Lector de letras.exe
+C:\Users\walte\OneDrive\Documentos\papucho\2019\5to Ciclo\Arquitectura de Datos 1\Laboratorio\Lector de letras\Lector de letras\bin\Debug\Lector de letras.pdb
+C:\Users\walte\OneDrive\Documentos\papucho\2019\5to Ciclo\Arquitectura de Datos 1\Laboratorio\Lector de letras\Lector de letras\obj\Debug\Lector de letras.csprojResolveAssemblyReference.cache
+C:\Users\walte\OneDrive\Documentos\papucho\2019\5to Ciclo\Arquitectura de Datos 1\Laboratorio\Lector de letras\Lector de letras\obj\Debug\Lector de letras.csproj.CoreCompileInputs.cache
+C:\Users\walte\OneDrive\Documentos\papucho\2019\5to Ciclo\Arquitectura de Datos 1\Laboratorio\Lector de letras\Lector de letras\obj\Debug\Lector de letras.exe
+C:\Users\walte\OneDrive\Documentos\papucho\2019\5to Ciclo\Arquitectura de Datos 1\Laboratorio\Lector de letras\Lector de letras\obj\Debug\Lector de letras.pdb
